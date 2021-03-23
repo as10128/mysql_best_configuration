@@ -68,3 +68,6 @@
  secure_file_priv=
  core_file
  innodb_buffer_pool_in_core_file=off
+
+# 8.0.23
+replication_optimize_for_static_plugin_config=on
